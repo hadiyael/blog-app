@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "First Post",
+    "content": "This is the content of the first post.",
+    "author": "John Doe",
+    "createdAt": "2024-02-16T08:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "surprise",
+    "content": "salma.",
+    "author": "ark x academy",
+    "createdAt": "2024-02-17T14:53:28.268Z"
+  },
+  {
+    "id": "3",
+    "title": "Sample Post",
+    "content": "this is a post abcd",
+    "author": "Random Name",
+    "createdAt": "2024-02-18T19:29:27.288Z"
+  },
+  {
+    "id": "4",
+    "title": "aaaa",
+    "content": "body of text",
+    "author": "eded",
+    "createdAt": "2024-02-18T19:40:29.577Z"
+  }
+]
